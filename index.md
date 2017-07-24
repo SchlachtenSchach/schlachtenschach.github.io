@@ -1,5 +1,6 @@
 ---
 layout: default
+title: SchlachtenSchach
 ---
 
 # [](#beschreibung)Beschreibung
