@@ -11,6 +11,6 @@ Die einzelnen Figuren haben verschiedene Angriffs- bzw. Bewegungsmuster und Kamp
 Über den Online-Modus können Spieler auf unterschiedlichen Geräten und Platformen miteinander spielen.
 
 # [](#screenshots)Screenshots
-![](Screenshot1.png)
-![](Screenshot2.png)
-![](Screenshot3.png)
+![Screenshot1](/Screenshot1.png)
+![Screenshot2](/Screenshot2.png)
+![Screenshot3](/Screenshot3.png)
