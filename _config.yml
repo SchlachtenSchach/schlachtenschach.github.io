@@ -2,3 +2,4 @@ theme: jekyll-theme-cayman
 title: SchlachtenSchach
 description: SchlachtenSchach ist ein etwas anderes Schachspiel...
 show_downloads: true
+lang: de-DE
