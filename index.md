@@ -15,3 +15,6 @@ Die einzelnen Figuren haben verschiedene Angriffs- bzw. Bewegungsmuster und Kamp
 ![Screenshot1](/Screenshot1.png)
 ![Screenshot2](/Screenshot2.png)
 ![Screenshot3](/Screenshot3.png)
+
+# [](#quellcode)Quellcode
+SchlachtenSchach steht unter der GPLv3. Der komplette Quellcode liegt auf [GitHub](https://github.com/SchlachtenSchach/SchlachtenSchach).
